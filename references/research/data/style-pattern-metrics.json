@@ -1,0 +1,454 @@
+{
+  "白鹭": {
+    "author": "白鹭",
+    "document_count": 6,
+    "visible_characters": 6668,
+    "title_mean_characters": 14.33,
+    "titles_with_quotes": 2,
+    "titles_with_colon": 0,
+    "patterns": {
+      "只有": {
+        "count": 0,
+        "document_coverage": 0,
+        "coverage_rate": 0.0,
+        "per_10000_characters": 0.0
+      },
+      "唯有": {
+        "count": 3,
+        "document_coverage": 3,
+        "coverage_rate": 0.5,
+        "per_10000_characters": 4.5
+      },
+      "才能": {
+        "count": 11,
+        "document_coverage": 5,
+        "coverage_rate": 0.833,
+        "per_10000_characters": 16.5
+      },
+      "可见": {
+        "count": 4,
+        "document_coverage": 4,
+        "coverage_rate": 0.667,
+        "per_10000_characters": 6.0
+      },
+      "故而": {
+        "count": 3,
+        "document_coverage": 3,
+        "coverage_rate": 0.5,
+        "per_10000_characters": 4.5
+      },
+      "因此": {
+        "count": 3,
+        "document_coverage": 3,
+        "coverage_rate": 0.5,
+        "per_10000_characters": 4.5
+      },
+      "然而": {
+        "count": 2,
+        "document_coverage": 2,
+        "coverage_rate": 0.333,
+        "per_10000_characters": 3.0
+      },
+      "但是": {
+        "count": 0,
+        "document_coverage": 0,
+        "coverage_rate": 0.0,
+        "per_10000_characters": 0.0
+      },
+      "首先": {
+        "count": 2,
+        "document_coverage": 2,
+        "coverage_rate": 0.333,
+        "per_10000_characters": 3.0
+      },
+      "其次": {
+        "count": 0,
+        "document_coverage": 0,
+        "coverage_rate": 0.0,
+        "per_10000_characters": 0.0
+      },
+      "最后": {
+        "count": 0,
+        "document_coverage": 0,
+        "coverage_rate": 0.0,
+        "per_10000_characters": 0.0
+      },
+      "一方面": {
+        "count": 0,
+        "document_coverage": 0,
+        "coverage_rate": 0.0,
+        "per_10000_characters": 0.0
+      },
+      "另一方面": {
+        "count": 0,
+        "document_coverage": 0,
+        "coverage_rate": 0.0,
+        "per_10000_characters": 0.0
+      },
+      "不仅": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.167,
+        "per_10000_characters": 1.5
+      },
+      "而且": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.167,
+        "per_10000_characters": 1.5
+      },
+      "我们要": {
+        "count": 3,
+        "document_coverage": 1,
+        "coverage_rate": 0.167,
+        "per_10000_characters": 4.5
+      },
+      "需要我们": {
+        "count": 2,
+        "document_coverage": 1,
+        "coverage_rate": 0.167,
+        "per_10000_characters": 3.0
+      },
+      "必须": {
+        "count": 0,
+        "document_coverage": 0,
+        "coverage_rate": 0.0,
+        "per_10000_characters": 0.0
+      },
+      "应当": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.167,
+        "per_10000_characters": 1.5
+      },
+      "应该": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.167,
+        "per_10000_characters": 1.5
+      },
+      "亟须": {
+        "count": 0,
+        "document_coverage": 0,
+        "coverage_rate": 0.0,
+        "per_10000_characters": 0.0
+      },
+      "新时代": {
+        "count": 11,
+        "document_coverage": 4,
+        "coverage_rate": 0.667,
+        "per_10000_characters": 16.5
+      },
+      "高质量发展": {
+        "count": 5,
+        "document_coverage": 2,
+        "coverage_rate": 0.333,
+        "per_10000_characters": 7.5
+      },
+      "人民": {
+        "count": 4,
+        "document_coverage": 3,
+        "coverage_rate": 0.5,
+        "per_10000_characters": 6.0
+      },
+      "群众": {
+        "count": 8,
+        "document_coverage": 2,
+        "coverage_rate": 0.333,
+        "per_10000_characters": 12.0
+      },
+      "发展": {
+        "count": 74,
+        "document_coverage": 6,
+        "coverage_rate": 1.0,
+        "per_10000_characters": 110.98
+      },
+      "创新": {
+        "count": 12,
+        "document_coverage": 6,
+        "coverage_rate": 1.0,
+        "per_10000_characters": 18.0
+      },
+      "治理": {
+        "count": 3,
+        "document_coverage": 1,
+        "coverage_rate": 0.167,
+        "per_10000_characters": 4.5
+      },
+      "实践证明": {
+        "count": 0,
+        "document_coverage": 0,
+        "coverage_rate": 0.0,
+        "per_10000_characters": 0.0
+      },
+      "正所谓": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.167,
+        "per_10000_characters": 1.5
+      },
+      "古语有云": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.167,
+        "per_10000_characters": 1.5
+      },
+      "指出": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.167,
+        "per_10000_characters": 1.5
+      },
+      "强调": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.167,
+        "per_10000_characters": 1.5
+      },
+      "不论": {
+        "count": 2,
+        "document_coverage": 2,
+        "coverage_rate": 0.333,
+        "per_10000_characters": 3.0
+      },
+      "无论": {
+        "count": 2,
+        "document_coverage": 2,
+        "coverage_rate": 0.333,
+        "per_10000_characters": 3.0
+      },
+      "正如": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.167,
+        "per_10000_characters": 1.5
+      }
+    }
+  },
+  "袁东": {
+    "author": "袁东",
+    "document_count": 77,
+    "visible_characters": 76844,
+    "title_mean_characters": 13.55,
+    "titles_with_quotes": 11,
+    "titles_with_colon": 1,
+    "patterns": {
+      "只有": {
+        "count": 75,
+        "document_coverage": 47,
+        "coverage_rate": 0.61,
+        "per_10000_characters": 9.76
+      },
+      "唯有": {
+        "count": 19,
+        "document_coverage": 13,
+        "coverage_rate": 0.169,
+        "per_10000_characters": 2.47
+      },
+      "才能": {
+        "count": 128,
+        "document_coverage": 55,
+        "coverage_rate": 0.714,
+        "per_10000_characters": 16.66
+      },
+      "可见": {
+        "count": 25,
+        "document_coverage": 24,
+        "coverage_rate": 0.312,
+        "per_10000_characters": 3.25
+      },
+      "故而": {
+        "count": 0,
+        "document_coverage": 0,
+        "coverage_rate": 0.0,
+        "per_10000_characters": 0.0
+      },
+      "因此": {
+        "count": 27,
+        "document_coverage": 24,
+        "coverage_rate": 0.312,
+        "per_10000_characters": 3.51
+      },
+      "然而": {
+        "count": 39,
+        "document_coverage": 30,
+        "coverage_rate": 0.39,
+        "per_10000_characters": 5.08
+      },
+      "但是": {
+        "count": 16,
+        "document_coverage": 13,
+        "coverage_rate": 0.169,
+        "per_10000_characters": 2.08
+      },
+      "首先": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.013,
+        "per_10000_characters": 0.13
+      },
+      "其次": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.013,
+        "per_10000_characters": 0.13
+      },
+      "最后": {
+        "count": 4,
+        "document_coverage": 4,
+        "coverage_rate": 0.052,
+        "per_10000_characters": 0.52
+      },
+      "一方面": {
+        "count": 19,
+        "document_coverage": 11,
+        "coverage_rate": 0.143,
+        "per_10000_characters": 2.47
+      },
+      "另一方面": {
+        "count": 9,
+        "document_coverage": 9,
+        "coverage_rate": 0.117,
+        "per_10000_characters": 1.17
+      },
+      "不仅": {
+        "count": 45,
+        "document_coverage": 32,
+        "coverage_rate": 0.416,
+        "per_10000_characters": 5.86
+      },
+      "而且": {
+        "count": 21,
+        "document_coverage": 17,
+        "coverage_rate": 0.221,
+        "per_10000_characters": 2.73
+      },
+      "我们要": {
+        "count": 42,
+        "document_coverage": 29,
+        "coverage_rate": 0.377,
+        "per_10000_characters": 5.47
+      },
+      "需要我们": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.013,
+        "per_10000_characters": 0.13
+      },
+      "必须": {
+        "count": 59,
+        "document_coverage": 34,
+        "coverage_rate": 0.442,
+        "per_10000_characters": 7.68
+      },
+      "应当": {
+        "count": 10,
+        "document_coverage": 8,
+        "coverage_rate": 0.104,
+        "per_10000_characters": 1.3
+      },
+      "应该": {
+        "count": 7,
+        "document_coverage": 5,
+        "coverage_rate": 0.065,
+        "per_10000_characters": 0.91
+      },
+      "亟须": {
+        "count": 5,
+        "document_coverage": 4,
+        "coverage_rate": 0.052,
+        "per_10000_characters": 0.65
+      },
+      "新时代": {
+        "count": 38,
+        "document_coverage": 25,
+        "coverage_rate": 0.325,
+        "per_10000_characters": 4.95
+      },
+      "高质量发展": {
+        "count": 33,
+        "document_coverage": 9,
+        "coverage_rate": 0.117,
+        "per_10000_characters": 4.29
+      },
+      "人民": {
+        "count": 129,
+        "document_coverage": 37,
+        "coverage_rate": 0.481,
+        "per_10000_characters": 16.79
+      },
+      "群众": {
+        "count": 157,
+        "document_coverage": 37,
+        "coverage_rate": 0.481,
+        "per_10000_characters": 20.43
+      },
+      "发展": {
+        "count": 517,
+        "document_coverage": 70,
+        "coverage_rate": 0.909,
+        "per_10000_characters": 67.28
+      },
+      "创新": {
+        "count": 129,
+        "document_coverage": 36,
+        "coverage_rate": 0.468,
+        "per_10000_characters": 16.79
+      },
+      "治理": {
+        "count": 154,
+        "document_coverage": 21,
+        "coverage_rate": 0.273,
+        "per_10000_characters": 20.04
+      },
+      "实践证明": {
+        "count": 1,
+        "document_coverage": 1,
+        "coverage_rate": 0.013,
+        "per_10000_characters": 0.13
+      },
+      "正所谓": {
+        "count": 5,
+        "document_coverage": 5,
+        "coverage_rate": 0.065,
+        "per_10000_characters": 0.65
+      },
+      "古语有云": {
+        "count": 0,
+        "document_coverage": 0,
+        "coverage_rate": 0.0,
+        "per_10000_characters": 0.0
+      },
+      "指出": {
+        "count": 21,
+        "document_coverage": 18,
+        "coverage_rate": 0.234,
+        "per_10000_characters": 2.73
+      },
+      "强调": {
+        "count": 24,
+        "document_coverage": 19,
+        "coverage_rate": 0.247,
+        "per_10000_characters": 3.12
+      },
+      "不论": {
+        "count": 3,
+        "document_coverage": 2,
+        "coverage_rate": 0.026,
+        "per_10000_characters": 0.39
+      },
+      "无论": {
+        "count": 28,
+        "document_coverage": 24,
+        "coverage_rate": 0.312,
+        "per_10000_characters": 3.64
+      },
+      "正如": {
+        "count": 2,
+        "document_coverage": 2,
+        "coverage_rate": 0.026,
+        "per_10000_characters": 0.26
+      }
+    }
+  }
+}

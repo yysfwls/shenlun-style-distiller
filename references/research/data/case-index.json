@@ -1,0 +1,500 @@
+[
+  {
+    "case_id": "BL-001",
+    "author_group": "白鹭课程体系",
+    "characters": 996,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "BL-002",
+    "author_group": "白鹭课程体系",
+    "characters": 1130,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "BL-003",
+    "author_group": "白鹭课程体系",
+    "characters": 1130,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "BL-004",
+    "author_group": "白鹭课程体系",
+    "characters": 1107,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "BL-005",
+    "author_group": "白鹭课程体系",
+    "characters": 1143,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "BL-006",
+    "author_group": "白鹭课程体系",
+    "characters": 1162,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-001",
+    "author_group": "袁东课程体系",
+    "characters": 969,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-002",
+    "author_group": "袁东课程体系",
+    "characters": 1064,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-003",
+    "author_group": "袁东课程体系",
+    "characters": 987,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-004",
+    "author_group": "袁东课程体系",
+    "characters": 1081,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-005",
+    "author_group": "袁东课程体系",
+    "characters": 1054,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-006",
+    "author_group": "袁东课程体系",
+    "characters": 1082,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-007",
+    "author_group": "袁东课程体系",
+    "characters": 1022,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-008",
+    "author_group": "袁东课程体系",
+    "characters": 1005,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-009",
+    "author_group": "袁东课程体系",
+    "characters": 961,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-010",
+    "author_group": "袁东课程体系",
+    "characters": 1067,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-011",
+    "author_group": "袁东课程体系",
+    "characters": 946,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-012",
+    "author_group": "袁东课程体系",
+    "characters": 988,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-013",
+    "author_group": "袁东课程体系",
+    "characters": 987,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-014",
+    "author_group": "袁东课程体系",
+    "characters": 936,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-015",
+    "author_group": "袁东课程体系",
+    "characters": 1092,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-016",
+    "author_group": "袁东课程体系",
+    "characters": 878,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-017",
+    "author_group": "袁东课程体系",
+    "characters": 1026,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-018",
+    "author_group": "袁东课程体系",
+    "characters": 973,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-019",
+    "author_group": "袁东课程体系",
+    "characters": 837,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-020",
+    "author_group": "袁东课程体系",
+    "characters": 1039,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-021",
+    "author_group": "袁东课程体系",
+    "characters": 941,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-022",
+    "author_group": "袁东课程体系",
+    "characters": 1069,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-023",
+    "author_group": "袁东课程体系",
+    "characters": 1072,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-024",
+    "author_group": "袁东课程体系",
+    "characters": 822,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-025",
+    "author_group": "袁东课程体系",
+    "characters": 1135,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-026",
+    "author_group": "袁东课程体系",
+    "characters": 966,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-027",
+    "author_group": "袁东课程体系",
+    "characters": 855,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-028",
+    "author_group": "袁东课程体系",
+    "characters": 989,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-029",
+    "author_group": "袁东课程体系",
+    "characters": 1045,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-030",
+    "author_group": "袁东课程体系",
+    "characters": 730,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-031",
+    "author_group": "袁东课程体系",
+    "characters": 998,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-032",
+    "author_group": "袁东课程体系",
+    "characters": 786,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-033",
+    "author_group": "袁东课程体系",
+    "characters": 1097,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-034",
+    "author_group": "袁东课程体系",
+    "characters": 1125,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-035",
+    "author_group": "袁东课程体系",
+    "characters": 979,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-036",
+    "author_group": "袁东课程体系",
+    "characters": 1012,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-037",
+    "author_group": "袁东课程体系",
+    "characters": 955,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-038",
+    "author_group": "袁东课程体系",
+    "characters": 918,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-039",
+    "author_group": "袁东课程体系",
+    "characters": 929,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-040",
+    "author_group": "袁东课程体系",
+    "characters": 1031,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-041",
+    "author_group": "袁东课程体系",
+    "characters": 1043,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-042",
+    "author_group": "袁东课程体系",
+    "characters": 896,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-043",
+    "author_group": "袁东课程体系",
+    "characters": 935,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-044",
+    "author_group": "袁东课程体系",
+    "characters": 928,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-045",
+    "author_group": "袁东课程体系",
+    "characters": 943,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-046",
+    "author_group": "袁东课程体系",
+    "characters": 992,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-047",
+    "author_group": "袁东课程体系",
+    "characters": 1141,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-048",
+    "author_group": "袁东课程体系",
+    "characters": 1104,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-049",
+    "author_group": "袁东课程体系",
+    "characters": 1137,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-050",
+    "author_group": "袁东课程体系",
+    "characters": 1097,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-051",
+    "author_group": "袁东课程体系",
+    "characters": 1049,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-052",
+    "author_group": "袁东课程体系",
+    "characters": 1176,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-053",
+    "author_group": "袁东课程体系",
+    "characters": 995,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-054",
+    "author_group": "袁东课程体系",
+    "characters": 834,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-055",
+    "author_group": "袁东课程体系",
+    "characters": 1068,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-056",
+    "author_group": "袁东课程体系",
+    "characters": 990,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-057",
+    "author_group": "袁东课程体系",
+    "characters": 972,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-058",
+    "author_group": "袁东课程体系",
+    "characters": 1024,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-059",
+    "author_group": "袁东课程体系",
+    "characters": 1026,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-060",
+    "author_group": "袁东课程体系",
+    "characters": 1045,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-061",
+    "author_group": "袁东课程体系",
+    "characters": 1083,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-062",
+    "author_group": "袁东课程体系",
+    "characters": 1120,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-063",
+    "author_group": "袁东课程体系",
+    "characters": 1103,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-064",
+    "author_group": "袁东课程体系",
+    "characters": 1022,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-065",
+    "author_group": "袁东课程体系",
+    "characters": 833,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-066",
+    "author_group": "袁东课程体系",
+    "characters": 1095,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-067",
+    "author_group": "袁东课程体系",
+    "characters": 993,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-068",
+    "author_group": "袁东课程体系",
+    "characters": 982,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-069",
+    "author_group": "袁东课程体系",
+    "characters": 1094,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-070",
+    "author_group": "袁东课程体系",
+    "characters": 879,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-071",
+    "author_group": "袁东课程体系",
+    "characters": 967,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-072",
+    "author_group": "袁东课程体系",
+    "characters": 979,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-073",
+    "author_group": "袁东课程体系",
+    "characters": 912,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-074",
+    "author_group": "袁东课程体系",
+    "characters": 964,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-075",
+    "author_group": "袁东课程体系",
+    "characters": 977,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-076",
+    "author_group": "袁东课程体系",
+    "characters": 1040,
+    "authorship_status": "probable_course_model"
+  },
+  {
+    "case_id": "YD-077",
+    "author_group": "袁东课程体系",
+    "characters": 958,
+    "authorship_status": "probable_course_model"
+  }
+]

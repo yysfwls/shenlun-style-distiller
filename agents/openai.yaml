@@ -1,0 +1,4 @@
+interface:
+  display_name: "申论写作风格蒸馏"
+  short_description: "用带证据的白鹭、袁东写作规则完成申论分析、成文与比较"
+  default_prompt: "使用 $shenlun-style-distiller 根据我的要求选择白鹭或袁东方法写作、比较两种写法、核查作文，或从新语料蒸馏 Writing DNA。"
